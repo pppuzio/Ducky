@@ -16,6 +16,7 @@ squish the rubber guy by double clicking.
 Future planned functionality:
 
 -chat with ducky,
+
 -adding keyboard input for additional methods of ducky.
 
 https://pppuzio.github.io/Ducky/
