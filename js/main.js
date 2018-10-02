@@ -38,7 +38,7 @@ var duckyHitbox;
 
 var clickMeshes = [];
 
-var squishSound = new Audio('../src/squish.wav');
+var squishSound = new Audio('https://raw.githubusercontent.com/pppuzio/Ducky/master/src/squish.wav');
 
 var reset = document.querySelector('.reset');
 
