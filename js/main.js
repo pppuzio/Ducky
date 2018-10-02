@@ -20,7 +20,7 @@ var jointBody, constrainedBody, mouseConstraint, markerMaterial;
 var boxShape, boxBody;
 var sphereShape, sphereBody;
 
-var N = 50;  //extra objects number
+var N = 52;  //extra objects number
 
 // To be synced
 var meshes = [],
